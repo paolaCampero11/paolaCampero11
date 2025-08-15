@@ -2,17 +2,16 @@
 <!--  -->
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
-<ul>
-    - 💻 Desarrolladora en formación con background en Ingeniería de Sistemas.
-    - 🚀 Interesada en desarrollo web y QA.
-    - 📊 Experiencia en proyectos con React, Firebase, PostgreSQL y pruebas funcionales/manuales.
-    - 🌎 Aprendiendo y colaborando en proyectos que mejoren la vida de las personas.
-    - 🎮 Gamer ocasional y fan de los videojuegos
-    - 🎵 Me encanta escuchar música
-    - 📌 Amante de los retos y de resolver problemas con creatividad
-    - 📖 No me asusta aprender algo desde cero (de hecho, me gusta)
-</ul>
 
+- 💻 Desarrolladora en formación con background en Ingeniería de Sistemas.
+- 🚀 Interesada en desarrollo web y QA.
+- 📊 Experiencia en proyectos con React, Firebase, PostgreSQL y pruebas funcionales/manuales.
+- 🌎 Aprendiendo y colaborando en proyectos que mejoren la vida de las personas.
+- 🎮 Gamer ocasional y fan de los videojuegos
+- 🎵 Me encanta escuchar música
+- 📌 Amante de los retos y de resolver problemas con creatividad
+- 📖 No me asusta aprender algo desde cero (de hecho, me gusta)
+<br>
 
 ## 🚀💻 Tecnologías & Herramientas
 
