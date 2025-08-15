@@ -1,21 +1,22 @@
 <h1 align="center"><b>Hola , Soy Paola Campero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
+<ul>
+    💻 Desarrolladora en formación con background en Ingeniería de Sistemas.
+    🚀 Interesada en desarrollo web y QA.
+    📊 Experiencia en proyectos con React, Firebase, PostgreSQL y pruebas funcionales/manuales.
+    🌎 Aprendiendo y colaborando en proyectos que mejoren la vida de las personas.
+    🎮 Gamer ocasional y fan de los videojuegos
+    🎵 Me encanta escuchar música
+    📌 Amante de los retos y de resolver problemas con creatividad
+    📖 No me asusta aprender algo desde cero (de hecho, me gusta)
+</ul>
 
-💻 Desarrolladora en formación con background en Ingeniería de Sistemas.
-🚀 Interesada en desarrollo web y QA.
-📊 Experiencia en proyectos con React, Firebase, PostgreSQL y pruebas funcionales/manuales.
-🌎 Aprendiendo y colaborando en proyectos que mejoren la vida de las personas.
-🎮 Gamer ocasional y fan de los videojuegos
-🎵 Me encanta escuchar música
-📌 Amante de los retos y de resolver problemas con creatividad
-📖 No me asusta aprender algo desde cero (de hecho, me gusta)
 
 ## 🚀💻 Tecnologías & Herramientas
 
 ### <u> Lenguajes: </u>
-
 <br>
 <span>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript"/>
@@ -24,7 +25,7 @@
 </span>
 <br>
 
-### <u> Frontend Development Technologies and Tools: </u>
+### <u> Tecnologías de Desarrollo Frontend </u>
 
 <br>
 <span>
@@ -36,7 +37,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap"  />
 </span>
 
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+### <u> Desarrollo Backend + Bases de datos + DevOps + Tecnologias Deployment & Herramientas: </u>
 
 <br>
 
