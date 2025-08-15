@@ -3,14 +3,14 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
 <ul>
-    💻 Desarrolladora en formación con background en Ingeniería de Sistemas.
-    🚀 Interesada en desarrollo web y QA.
-    📊 Experiencia en proyectos con React, Firebase, PostgreSQL y pruebas funcionales/manuales.
-    🌎 Aprendiendo y colaborando en proyectos que mejoren la vida de las personas.
-    🎮 Gamer ocasional y fan de los videojuegos
-    🎵 Me encanta escuchar música
-    📌 Amante de los retos y de resolver problemas con creatividad
-    📖 No me asusta aprender algo desde cero (de hecho, me gusta)
+    - 💻 Desarrolladora en formación con background en Ingeniería de Sistemas.
+    - 🚀 Interesada en desarrollo web y QA.
+    - 📊 Experiencia en proyectos con React, Firebase, PostgreSQL y pruebas funcionales/manuales.
+    - 🌎 Aprendiendo y colaborando en proyectos que mejoren la vida de las personas.
+    - 🎮 Gamer ocasional y fan de los videojuegos
+    - 🎵 Me encanta escuchar música
+    - 📌 Amante de los retos y de resolver problemas con creatividad
+    - 📖 No me asusta aprender algo desde cero (de hecho, me gusta)
 </ul>
 
 
@@ -41,8 +41,6 @@
 
 <br>
 
-<span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -98,7 +96,7 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=paolaCampero11&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=paolaCampero11&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=paolaCampero11&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/paolaCampero11)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=paolaCampero11&theme=material-palenight)](https://github.com/paolaCampero11)
 </div>
 
