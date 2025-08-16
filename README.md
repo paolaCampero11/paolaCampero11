@@ -31,17 +31,21 @@
 <br>
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5"/>
+&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3"/>
+&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" />
+&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" />
+&nbsp;
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" />
+&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap"  />
 </span>
 
 ### <u> Desarrollo Backend + Bases de datos + Tecnologias Deployment & Herramientas: </u>
 
 <br>
-
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -82,6 +86,7 @@
 <span>
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
 </span>
+&nbsp;
 <span>
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
 </span>
@@ -98,9 +103,11 @@
 <span>
 <img src = "https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Logo"  title="Cisco" height="25"/>
 </span>
+&nbsp;
 <span>
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Logo"  title="Postman" height="25"/>
 </span>
+&nbsp;
 <span>
 <img src = "https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello Logo"  title="Trello" height="25"/>
 </span>
@@ -111,6 +118,7 @@
 <a href= "mailto:paola.campero.medina@gmail.com" target="top">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/paola-campero-desarrolladora-qa/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
