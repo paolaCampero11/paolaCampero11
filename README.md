@@ -19,7 +19,9 @@
 <br>
 <span>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript"/>
+&nbsp;
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python"/>
+&nbsp;
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java"/>
 </span>
 <br>
@@ -90,15 +92,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 <br>
-<br>
 
 ### <u> Otros:</u>
 <br>
 <span>
 <img src = "https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Logo"  title="Cisco" height="25"/>
-</span>
-<span>
-<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Logo"  title="Postman" height="25"/>
 </span>
 <span>
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Logo"  title="Postman" height="25"/>
